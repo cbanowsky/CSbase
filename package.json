@@ -3,7 +3,7 @@
   "author": "Cameron Banowsky & Sergey Sosunov",
   "description": "A true Angular CMS",
   "repository": {
-    "url": "git://github.com/cbanowsky/cands.git"
+    "url": "git://github.com/cbanowsky/CSbase.git"
   },
   "license": "MIT",
   "private": false,
@@ -45,8 +45,8 @@
     "test": "karma start test/karma.conf.js"
   },
   "dependencies": {
-    "angular": "^1.5.8",
     "express": "^4.14.0",
+    "firebase": "^3.3.0",
     "install": "^0.8.1",
     "karma": "^0.13.22",
     "npm": "^3.10.6",
