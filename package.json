@@ -4,8 +4,8 @@
   "description": "A true Angular CMS",
   "repository": {
     "url": "git://github.com/cbanowsky/cands.git"
-   },
-  "license" : "MIT",
+  },
+  "license": "MIT",
   "private": false,
   "devDependencies": {
     "gulp": "^3.9.0",
@@ -50,6 +50,7 @@
     "install": "^0.8.1",
     "karma": "^0.13.22",
     "npm": "^3.10.6",
+    "path": "^0.12.7",
     "sequelize": "^3.24.0"
   }
 }
